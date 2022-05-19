@@ -32,5 +32,5 @@ The beauty of using conditional formatting helps give stock performance at a gla
  
 
 
-### My Reccomendation 
+### My Recommendation: 
 Ultimately, while there are a few promising green energy stocks, specifically, ENPH & RUN. I would advise our clients, Steve’s parents, to diversify their investment portfolio & be selective with their green energy investments. Their preferred investment of DQ may be a good buy in 2018 if the company is able to turn around their performance, but showing a 62% drop in market share should give them serious pause. 
