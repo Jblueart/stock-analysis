@@ -30,6 +30,8 @@ The beauty of using conditional formatting helps give stock performance at a gla
 ![image](https://user-images.githubusercontent.com/104408782/169194905-bce01dfd-c118-47b1-99b5-854e34d64d3d.png)
 
  
+ ## Update: 
+ Ran into a bug with my first code when I tried to add in the starting & ending price because I misunderstood the ruberic. The latest version of my file runs in 1.13 seconds. So in this case refactoring wasn't extremely helpful and my code is much less efficent than the original. 
 
 
 ### My Recommendation: 
